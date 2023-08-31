@@ -14,3 +14,5 @@ function toggleAnswer() {
   toggleAnswerButton.textContent = wasToggled ? "Hide answer" : "Show Answer";
 }
 toggleAnswerButton.addEventListener("click", toggleAnswer);
+
+console.log();
