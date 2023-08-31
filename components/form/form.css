@@ -1,0 +1,39 @@
+.content {
+  margin-top: 8em;
+  margin-bottom: 6em;
+}
+
+main {
+  margin: 20px;
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+
+.textarea,
+.tag {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.submit-button {
+  background-color: #4caf50;
+  color: #fff;
+  padding: 10px 50px;
+  margin-left: 120px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
